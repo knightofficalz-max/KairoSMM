@@ -11,8 +11,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "notpanel",
-      "database_id": "37e05b1f-b763-4ebd-aee6-2a1c01ff1dae",
+      "database_name": "kairosmm",
+      "database_id": "1573d646-f4a3-4895-af80-2ea0ccc88aef",
       "migrations_dir": "migrations"
     }
   ],
